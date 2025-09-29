@@ -7,7 +7,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
-* [Backlog do produto](https://github.com/Jacksonpenaforte/API_1LOG/blob/main/backlog_documentacao.zip)
+* [Backlog do produto](#ProductBacklog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
 
