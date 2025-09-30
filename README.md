@@ -13,9 +13,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-  O projeto de Aprendizagem Baseada em Projetos Integradores estabelece um modelo educacional dinâmico, espelhando princípios das metodologias ágeis. O propósito fundamental deste método reside em capacitar os estudantes, permitindo que eles adquiram saberes e competências por meio da participação ativa em empreendimentos práticos. A estrutura de trabalho organiza-se em fases sequenciais de idealização, concretização e avaliação reflexiva. Esta abordagem enfatiza a aplicação colaborativa de saberes oriundos de distintas disciplinas para enfrentar problemas factuais, o que fomenta uma constante capacidade de ajuste e a entrega progressiva de entregáveis funcionais.
+  O projeto de Aprendizagem Baseado em Projetos Integradores estabelece um modelo educacional dinâmico, espelhando princípios das metodologias ágeis. O propósito fundamental deste método reside em capacitar os estudantes, permitindo que eles adquiram saberes e competências por meio da participação ativa em empreendimentos práticos. A estrutura de trabalho organiza-se em fases sequenciais de idealização, concretização e avaliação reflexiva. Esta abordagem enfatiza a aplicação colaborativa de saberes oriundos de distintas disciplinas para enfrentar problemas factuais, o que fomenta uma constante capacidade de ajuste e a entrega progressiva de entregáveis funcionais.
 
-  Palavras-Chave: Aprendizagem baseada em projetos; Metodologias ágeis; Interdisciplinaridade; Resolução de problemas; Entrega incremental.
+  
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
