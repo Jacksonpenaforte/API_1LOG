@@ -44,7 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Microsoft Excel
 * Whatsapp
 * Python (Colab)
-* Mysql
+
 
 
 
