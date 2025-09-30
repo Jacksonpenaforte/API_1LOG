@@ -13,9 +13,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+  O projeto de Aprendizagem Baseada em Projetos Integradores estabelece um modelo educacional dinâmico, espelhando princípios das metodologias ágeis. O propósito fundamental deste método reside em capacitar os estudantes, permitindo que eles adquiram saberes e competências por meio da participação ativa em empreendimentos práticos. A estrutura de trabalho organiza-se em fases sequenciais de idealização, concretização e avaliação reflexiva. Esta abordagem enfatiza a aplicação colaborativa de saberes oriundos de distintas disciplinas para enfrentar problemas factuais, o que fomenta uma constante capacidade de ajuste e a entrega progressiva de entregáveis funcionais.
+
+  Palavras-Chave: Aprendizagem baseada em projetos; Metodologias ágeis; Interdisciplinaridade; Resolução de problemas; Entrega incremental.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
