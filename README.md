@@ -15,6 +15,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Projeto (API) 
   O projeto de Aprendizagem Baseado em Projetos Integradores estabelece um modelo educacional dinâmico, espelhando princípios das metodologias ágeis. O propósito fundamental deste método reside em capacitar os estudantes, permitindo que eles adquiram saberes e competências por meio da participação ativa em empreendimentos práticos. A estrutura de trabalho organiza-se em fases sequenciais de idealização, concretização e avaliação reflexiva. Esta abordagem enfatiza a aplicação colaborativa de saberes oriundos de distintas disciplinas para enfrentar problemas factuais, o que fomenta uma constante capacidade de ajuste e a entrega progressiva de entregáveis funcionais.
 
+  The Integrative Project-Based Learning project establishes a dynamic educational model, mirroring principles of agile methodologies. The fundamental purpose of this method is to empower students, allowing them to acquire knowledge and skills through active participation in practical projects. The work structure is organized into sequential phases of ideation, implementation, and reflective evaluation. This approach emphasizes the collaborative application of knowledge from different disciplines to address factual problems, which fosters a constant capacity for adjustment and the progressive delivery of functional deliverables.
+
   
 
 # Equipe
