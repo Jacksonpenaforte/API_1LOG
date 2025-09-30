@@ -55,12 +55,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 1    | Alta       |Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.               | 4          | 1      |
 | 2    | Alta       | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.              | 4          | 1      |
 | 3    | Alta       | Como gestor, quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP.                                    | 4          | 1      |
-| 4  | Alta         |  Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.                                              | 3           | 1       |
-| 5   | Média      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 3          | 1     |
-| 6   | Média     | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 1      |
-| 7   | Média      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 1      |
-| 8   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 3         | 1      |
-| 9   | Baixa     | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 1      |
+| 4  | Alta         |  Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.                                              | 3          | 1      |
+| 5   | Média      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 3           | 1      |
+| 6   | Média     | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2            | 1      |
+| 7   | Média      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2           | 1      |
+| 8   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes      | 3         | 1      |
+| 9   | Baixa     | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes       | 2          | 1      |
 | 10   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 1      |
 
 
