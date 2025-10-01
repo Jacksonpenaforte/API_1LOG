@@ -32,8 +32,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-*	Desenvolver uma análise quantitativa das receitas aeroportuárias do Aeroporto de Guarulhos no período de 2018 a 2022, indicando o impacto da pandemia no fechamento financeiro do aeroporto;
-* Desenvolver um framework de coleta e tratamento dos dados financeiros do Aeroporto de Guarulhos utilizando a linguagem Python para mineração de dados;
+*Consolidar e tratar os dados brutos de exportações e importações por município e estado.
+
+* Identificar padrões de crescimento, estagnação ou declínio nas atividades de comércio exterior.
+
 * Desenvolver um dashboard no Power BI para analisar os dados de importação e exportação do Comexstat, dos anos 2023, 2024, 2025, comparando a exportação e a importação no estado de São Paulo e entre os municípios;
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
