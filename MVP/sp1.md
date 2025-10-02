@@ -1,65 +1,86 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Projeto COMEX BI
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Problema que resolve: A dificuldade de acessar, consolidar e visualizar dados de comércio exterior (COMEX STAT) em nível estadual e municipal de forma rápida e padronizada.
+- Hipótese a validar: Que a automação da compilação de dados com Python e a integração com dashboards interativos (Power BI) agilizam a análise e suportam decisões estratégicas.
+- Valor entregue ao usuário final: Acesso centralizado a bases consolidadas (2023–2025) e visualizações dinâmicas, permitindo identificar tendências comerciais e comparar estados e municípios.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+• Funcionalidades principais incluídas:
+  - Automação da coleta e limpeza de dados do COMEX STAT via Python/Pandas no Google Colab.
+  - Geração de base consolidada em CSV pronta para uso.
+  - Dashboards interativos no Power BI com filtros por ano, estado e município.
+• Limitações conhecidas:
+  - Atualização dos dados ainda manual (downloads periódicos).
+  - MVP cobre apenas dados de exportação e importação de 2023–2025.
+• Escopo reduzido: foco em fornecer as primeiras visualizações analíticas e validar a utilidade para gestores e analistas.
+  
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- • Persona 1 – Gestor de Comércio Exterior: precisa de relatórios rápidos para tomadas de decisão sobre políticas e estratégias de importação/exportação.
+- • Persona 2 – Analista de BI/Dados: precisa de dados limpos e padronizados para criar indicadores e estudos de mercado.
+  
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | Estimativa (horas) |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.
+         | Alta       | 6  |
+| US2 | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.
+       |Alta     | 6   |
+| US3 | Como gestor, quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP.
+       |Alta     | 4   |
+| US4 | Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.
+       |Alta     | 4   |
+| US5 | Como gestor, quero um painel com as estatísticas principais do projeto.
+       |Alta     | 4   |
+| US6 | Quero filtros para municípios e períodos, para analisar dados específicos.
+       |baixa    | 4   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |Automação da compilação dos dados (Python + Pandas)                       | Concluído|
+| 02     |Integração com Power BI e criação dos primeiros dashboards                | Em andamento |
+| 03     |Publicação da documentação e backlog no GitHub                            | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- • O MVP deve permitir que o usuário visualize e filtre os dados consolidados (2023–2025).  
+- • O sistema deve disponibilizar download do CSV consolidado. 
+- Métricas coletadas: tempo de atualização dos dados, número de acessos aos dashboards, feedback dos usuários-alvo.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Nº de usuários que acessaram e testaram os dashboards.  
+- Feedback qualitativo sobre clareza e usabilidade. 
+- Indicadores de negócio: redução de tempo na análise dos dados, melhoria na tomada de decisão. 
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
-
+- Nº de usuários que acessaram e testaram os dashboards.  
+- Feedback qualitativo sobre clareza e usabilidade. 
+- Indicadores de negócio: redução de tempo na análise dos dados, melhoria na tomada de decisão.
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Relatório do processo COMEX STAT (compilação de dados).
+- <img width="1362" height="697" alt="image" src="https://github.com/user-attachments/assets/3535984e-41a7-4c2c-8e4e-f04bd6703654" />
+-<img width="1362" height="689" alt="image" src="https://github.com/user-attachments/assets/cbd3e749-18ad-4447-920f-b7a735e38564" />
+- Capturas de dashboards do Power BI.
+- <img width="1359" height="676" alt="image" src="https://github.com/user-attachments/assets/227bbdbf-2eea-4b2d-9f08-a053dc223203" />
+- <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/09f271ba-4a35-44ef-a0e0-0adcfba4d015" />
+
+
+  
