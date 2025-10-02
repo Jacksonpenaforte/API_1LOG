@@ -49,8 +49,8 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- • O MVP deve permitir que o usuário visualize e filtre os dados consolidados (2023–2025).  
-- • O sistema deve disponibilizar download do CSV consolidado. 
+- O MVP deve permitir que o usuário visualize e filtre os dados consolidados (2023–2025).  
+- O sistema deve disponibilizar download do CSV consolidado. 
 - Métricas coletadas: tempo de atualização dos dados, número de acessos aos dashboards, feedback dos usuários-alvo.  
 
 ---
