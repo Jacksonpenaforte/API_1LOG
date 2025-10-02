@@ -21,8 +21,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- • Persona 1 – Gestor de Comércio Exterior: precisa de relatórios rápidos para tomadas de decisão sobre políticas e estratégias de importação/exportação.
-- • Persona 2 – Analista de BI/Dados: precisa de dados limpos e padronizados para criar indicadores e estudos de mercado.
+- Persona 1 – Gestor de Comércio Exterior: precisa de relatórios rápidos para tomadas de decisão sobre políticas e estratégias de importação/exportação.
+- Persona 2 – Analista de BI/Dados: precisa de dados limpos e padronizados para criar indicadores e estudos de mercado.
   
 
 ---
@@ -30,18 +30,12 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa (horas) |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.
-         | Alta       | 6  |
-| US2 | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.
-       |Alta     | 6   |
-| US3 | Como gestor, quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP.
-       |Alta     | 4   |
-| US4 | Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.
-       |Alta     | 4   |
-| US5 | Como gestor, quero um painel com as estatísticas principais do projeto.
-       |Alta     | 4   |
-| US6 | Quero filtros para municípios e períodos, para analisar dados específicos.
-       |baixa    | 4   |
+| US1 | Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.| Alta       | 6  |
+| US2 | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.|Alta     | 6   |
+| US3 | Como gestor, quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP.|Alta     | 4   |
+| US4 | Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.|Alta     | 4   |
+| US5 | Como gestor, quero um painel com as estatísticas principais do projeto.|Alta     | 4   |
+| US6 | Quero filtros para municípios e períodos, para analisar dados específicos.|baixa    | 4   |
 
 ---
 
