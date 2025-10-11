@@ -53,7 +53,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog
 
-|| Rank | Prioridade | User Story                                                                                                                                  | Estimativa | Sprint |
+| Rank | Prioridade | User Story                                                                                                                                  | Estimativa | Sprint |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
 | 1    | Alta       | Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise. | 6          | 1      |
 | 2    | Alta       | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise. | 6          | 1      |
