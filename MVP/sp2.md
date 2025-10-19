@@ -4,7 +4,7 @@
 
 **Problema identificado:** Necessidade de maior precisão numérica nas análises e atualização periódica dos dados para garantir consistência nas decisões estratégicas.  
 **Melhoria validada:** Ajuste no número de casas decimais nas métricas do dashboard Power BI e atualização completa das bases de dados via Python.  
-**Valor entregue:** Visualizações mais detalhadas e atualizadas, permitindo análises mais confiáveis e comparações refinadas entre períodos e regiões.
+**Valor entregue:** Visualizações mais detalhadas e atualizadas, permitindo análises mais confiáveis e comparações refinadas entre períodos.
 
 ---
 
