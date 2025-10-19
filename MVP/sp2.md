@@ -79,7 +79,7 @@
 
 ## 📎 Anexos / Evidências
 
-- Compilação de Dados Nacionais e SP (Python, atualizada em 10/10/2025).  
-- Dashboards Power BI revisados.  
-- Arquivo de backlog Sprint 2.  
-- MVP1 validado como baseline do projeto.  
+- Compilação de Dados Nacionais e SP (Python, atualizada em 10/10/2025).
+- https://colab.research.google.com/drive/1NljkkJeudKey4VqH9vAK-zCjih09xyM0?usp=sharing
+- https://colab.research.google.com/drive/1BU--5GM1AYr-YyOdYG4b6KM7oB93QmPK?usp=sharing
+- Dashboards Power BI revisados.   
