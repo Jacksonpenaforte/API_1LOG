@@ -53,24 +53,26 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                  | Estimativa | Sprint |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-| 1    | Alta       | Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise. | 6          | 1      |
-| 2    | Alta       | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise. | 6          | 1      |
-| 3    | Alta       | Como gestor, quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP.                       | 4          | 1      |
-| 9    | Alta       | Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.                                  | 4          | 1      |
-| 10   | Alta       | Como gestor, quero um painel com as estatísticas principais do projeto.                                                                     | 4          | 1      |
-| 14   | Baixa      | Quero filtros para municípios e períodos, para analisar dados específicos.                                                                  | 4          | 1      |
-| 4    | Alta       | Como analista, quero filtros para tipo de produto e setor, para análises mais aprofundadas.                                                 | 4          | 2      |
-| 5    | Alta       | Como gestor, quero uma interface com navegação intuitiva, para encontrar informações com poucos cliques.                                    | 4          | 2      |
-| 6    | Alta       | Como gestor, quero que o layout do dashboard seja visualmente agradável.                                                                    | 4          | 2      |
-| 11   | Média      | Como desenvolvedor, quero que o repositório no GitHub seja configurado, para garantir o controle de versão.                                 | 4          | 2      |
-| 12   | Média      | Como gestor, quero poder exportar os dados do dashboard para compartilhar relatórios com outras partes interessadas.                        | 4          | 2      |
-| 15   | Baixa      | Como desenvolvedor, quero que o código do projeto em Python esteja bem documentado.                                                         | 4          | 2      |
-| 7    | Alta       | Como gestor, quero um manual de usuário para usar a plataforma sem dificuldade.                                                             | 4          | 3      |
-| 13   | Baixa      | Como gestor, quero visualizar os dados de importação e exportação em um formato de tabela.                                                  | 4          | 3      |
-| 8    | Alta       | Como analista, quero um manual para desenvolvedores para dar manutenção no projeto.                                                         | 4          | 3      |
-
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+| ---- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------- |
+| 1 | Alta | Como tomador de decisão de políticas públicas quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise. | 6 | 1 |
+| 2 | Alta | Como tomador de decisão de políticas públicas quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise. | 6 | 1 |
+| 3 | Alta | Como tomador de decisão de políticas públicas quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP. | 4 | 1 |
+| 9 | Alta | Como tomador de decisão de políticas públicas quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP. | 4 | 1 |
+| 10 | Alta | Como tomador de decisão de políticas públicas quero um painel com as estatísticas principais do projeto. | 4 | 1 |
+| 14 | Baixa | Como tomador de decisão de políticas públicas quero poder selecionar o município para análise por meio de um filtro de municípios na tela do dashboard. | 4 | 2 |
+| 16 | Alta | Como tomador de decisão de políticas públicas quero garantir que os dados estejam atualizados e sem duplicidades. | 4 | 2 |
+| 15 | Alta | Como tomador de decisão de políticas públicas quero visualizar dados com maior precisão numérica, para análises mais detalhadas. | 4 | 2 |
+| 4 | Alta | Como tomador de decisão de políticas públicas quero filtros para tipo de produto e setor, para análises mais aprofundadas. | 4 | 2 |
+| 5 | Alta | Como tomador de decisão de políticas públicas quero uma interface com navegação intuitiva, para encontrar informações com poucos cliques. | 4 | 2 |
+| 6 | Alta | Como tomador de decisão de políticas públicas quero que o layout do dashboard seja visualmente agradável. | 4 | 2 |
+| 11 | Média | Como tomador de decisão de políticas públicas quero que o repositório no GitHub seja configurado, para garantir o controle de versão. | 4 | 2 |
+| 12 | Média | Como tomador de decisão de políticas públicas quero poder exportar os dados do dashboard para compartilhar relatórios com outras partes interessadas. | 4 | 2 |
+| 15 | Baixa | Como tomador de decisão de políticas públicas quero que o código do projeto em Python esteja bem documentado. | 4 | 2 |
+| 17 | Alta | Como tomador de decisão de políticas públicas gostaria de visualizar os dados por regiões, com foco no Vale do Paraíba. | 5 | 3 |
+| 7 | Alta | Como tomador de decisão de políticas públicas quero um manual de usuário para usar a plataforma sem dificuldade. | 4 | 3 |
+| 13 | Baixa | Como tomador de decisão de políticas públicas quero visualizar os dados de importação e exportação em um formato de tabela. | 4 | 3 |
+| 8 | Alta | Como tomador de decisão de políticas públicas quero um manual para desenvolvedores para dar manutenção no projeto. | 4 | 3 |
 
 
   
