@@ -28,14 +28,23 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa (horas) |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista, quero que os dados de importação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.| Alta       | 6  |
-| US2 | Como analista, quero que os dados de exportação sejam limpos e normalizados em Python, para que eu tenha uma base consistente para análise.|Alta     | 6   |
-| US3 | Como gestor, quero um dashboard principal no Power BI, para visualizar o desempenho geral de comércio exterior de SP.|Alta     | 4   |
-| US4 | Como gestor, quero um gráfico que mostre a evolução da balança comercial (2023-2025) dos municípios de SP.|Alta     | 4   |
-| US5 | Como gestor, quero um painel com as estatísticas principais do projeto.|Alta     | 4   |
-| US6 | Quero filtros para municípios e períodos, para analisar dados específicos.|baixa    | 4   |
+# User Stories - Projeto de Comércio Exterior SP
+
+| ID | Prioridade | História do Usuário | Pontos | Status | Sprint |
+|----|-------------|---------------------|---------|---------|---------|
+| 1 | Alta | Como tomador de decisão de políticas públicas quero que os dados de **importação** sejam limpos e normalizados em **Python**, para que eu tenha uma base consistente para análise. | 6 | Concluído | 1 |
+| 2 | Alta | Como tomador de decisão de políticas públicas quero que os dados de **exportação** sejam limpos e normalizados em **Python**, para que eu tenha uma base consistente para análise. | 6 | Concluído | 1 |
+| 3 | Alta | Como tomador de decisão de políticas públicas quero um **dashboard principal no Power BI**, para visualizar o desempenho geral de comércio exterior de SP. | 4 | Concluído | 1 |
+| 9 | Alta | Como tomador de decisão de políticas públicas quero um **gráfico** que mostre a **evolução da balança comercial (2023–2025)** dos municípios de SP. | 4 | Concluído | 1 |
+| 10 | Alta | Como tomador de decisão de políticas públicas quero um **painel com as estatísticas principais** do projeto. | 4 | Concluído | 1 |
+
+---
+
+### 💡 Observações
+- Todas as histórias têm prioridade **Alta** e foram **concluídas** durante a **Sprint 1**.  
+- Ferramentas utilizadas: **Python** para tratamento de dados e **Power BI** para visualização e análise.  
+- O foco é fornecer suporte à formulação de **políticas públicas de comércio exterior** com dados limpos e confiáveis.
+
 
 ---
 
@@ -43,8 +52,8 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     |Automação da compilação dos dados (Python + Pandas)                       | Concluído|
-| 02     |Integração com Power BI e criação dos primeiros dashboards                | Em andamento |
-| 03     |Publicação da documentação e backlog no GitHub                            | Em andamento |
+| 02     |Integração com Power BI e criação dos primeiros dashboards                |  Concluído |
+| 03     |Publicação da documentação e backlog no GitHub                            |  Concluído |
 
 ---
 
