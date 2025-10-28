@@ -2,10 +2,10 @@
 
 **Equipe:**
 * Jackson David Rodrigues Penaforte ([www.linkedin.com/in/jackson-penaforte-53901089](www.linkedin.com/in/jackson-penaforte-53901089))
-* Vitor Amaral (linkedin)
+* Vitor Amaral (https://www.linkedin.com/in/vitor-amaral-szabo-b533b6339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * Stela Garcia (linkedin)
-* Geovanna Lara (linkedin)
-* Marcos Pacheco (linkedin)
+* Geovanna Lara (https://www.linkedin.com/in/geovannalara1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* Marcos Pacheco (https://www.linkedin.com/in/marcos-pacheco-6a0364288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 **Orientação:**
 * Professor M2 ou Orientador: Prof. Carlos Bastos
