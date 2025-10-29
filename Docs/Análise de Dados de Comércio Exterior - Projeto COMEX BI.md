@@ -17,7 +17,7 @@
 
 O projeto **COMEX BI** tem como objetivo desenvolver uma API voltada à consolidação e análise de dados de comércio exterior, a partir de bases públicas disponibilizadas pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) e pela Fundação SEADE. A proposta visa solucionar a dificuldade de acesso e tratamento de grandes volumes de dados, transformando-os em informações úteis para análise logística.
 
-O desenvolvimento utilizou Python (com bibliotecas como Pandas) para limpeza e normalização das bases, integrando os resultados ao Power BI para criação de *dashboards* interativos. O projeto foi conduzido sob a metodologia ágil **SCRUM**, dividido em três *sprints*: automação de dados (MVP1), ajustes de precisão e documentação (MVP2), e publicação final (MVP3).
+O desenvolvimento utilizou Python (com bibliotecas Pandas) para limpeza e normalização das bases, integrando os resultados ao Power BI para criação de *dashboards* interativos. O projeto foi conduzido sob a metodologia ágil **SCRUM**, dividido em três *sprints*: automação de dados (MVP1), ajustes de precisão e documentação (MVP2), e publicação final (MVP3).
 
 Os resultados obtidos incluem a automação completa da compilação de dados de exportação e importação, eliminação de duplicidades, padronização textual e integração com *dashboards* dinâmicos. O sistema desenvolvido permite filtrar informações por município, estado e período, facilitando comparações entre regiões e auxiliando na tomada de decisão estratégica. O projeto contribui para o aprimoramento das práticas logísticas e evidencia o potencial do uso de ferramentas de ciência de dados em ambientes acadêmicos e corporativos.
 
@@ -53,7 +53,7 @@ Os **objetivos específicos** incluem:
 
 ## 3. Fundamentação dos Métodos Analíticos e das Tecnologias Utilizadas
 
-O projeto foi desenvolvido com base na **metodologia ágil SCRUM**, permitindo entregas iterativas e validadas junto ao cliente. A linguagem **Python** foi empregada para o tratamento e análise dos dados, utilizando bibliotecas como **Pandas** e **NumPy**. O **Power BI** foi adotado como ferramenta de visualização, permitindo a criação de *dashboards* dinâmicos e acessíveis. O **GitHub** serviu como repositório de versionamento e publicação dos artefatos do projeto.
+O projeto foi desenvolvido com base na **metodologia ágil SCRUM**, permitindo entregas iterativas e validadas junto ao cliente. A linguagem **Python** foi empregada para o tratamento e análise dos dados, utilizando biblioteca **Pandas**. O **Power BI** foi adotado como ferramenta de visualização, permitindo a criação de *dashboards* dinâmicos e acessíveis. O **GitHub** serviu como repositório de versionamento e publicação dos artefatos do projeto.
 
 ### Tabela 1 – Referências Técnicas
 
@@ -65,9 +65,11 @@ O projeto foi desenvolvido com base na **metodologia ágil SCRUM**, permitindo e
 
 ## 4. Coleta e Descrição dos Dados Utilizados
 
-Os dados foram obtidos a partir do portal de Estatísticas de Comércio Exterior do **MDIC** e da **Fundação SEADE**, abrangendo os anos de 2023 a 2025. O tratamento foi realizado no Google Colab, utilizando Python para leitura, concatenação, mesclagem e limpeza das tabelas.
+Os dados foram obtidos a partir do portal de Estatísticas de Comércio Exterior do **comexstat.mdic.gov.br** e da **Fundação SEADE**, abrangendo os anos de 2023 a 2025. O tratamento foi realizado no Google Colab, utilizando Python para leitura, concatenação, mesclagem e limpeza das tabelas.
 
 Foram removidas duplicidades com a função `drop_duplicates`, e padronizados os nomes de municípios e unidades federativas. As bases resultantes, `finalexp.csv`, `finalimp.csv`, `finalexpSP.csv` e `finalimpSP.csv`, foram integradas ao Power BI para visualização interativa.
+
+Foram criados no Power BI novas colunas nos arquivos, para que tenha ligações entre os dados compilados da **comexstat.mdic.gov.br** e da **Fundação SEADE**.
 
 ## 5. Resultados Esperados
 
