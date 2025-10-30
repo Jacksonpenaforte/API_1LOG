@@ -85,3 +85,7 @@
 - https://colab.research.google.com/drive/1NljkkJeudKey4VqH9vAK-zCjih09xyM0?usp=sharing
 - https://colab.research.google.com/drive/1BU--5GM1AYr-YyOdYG4b6KM7oB93QmPK?usp=sharing
 - Dashboards Power BI revisados.   
+
+
+https://github.com/user-attachments/assets/eef34cda-71a9-45f2-817e-b277b410aa34
+
