@@ -25,8 +25,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 17 | Alta | Como tomador de decisão de políticas públicas gostaria de visualizar os dados por regiões, com foco no Vale do Paraíba. | 5 | 3 |
+| 7 | Alta | Como tomador de decisão de políticas públicas quero um manual de usuário para usar a plataforma sem dificuldade. | 4 | 3 |
+| 13 | Baixa | Como tomador de decisão de políticas públicas quero visualizar os dados de importação e exportação em um formato de tabela. | 4 | 3 |
+| 8 | Alta | Como tomador de decisão de políticas públicas quero um manual para desenvolvedores para dar manutenção no projeto. | 4 | 3 |
+
 
 ---
 
