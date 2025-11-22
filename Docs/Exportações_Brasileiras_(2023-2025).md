@@ -6,6 +6,9 @@ Este relatório técnico apresenta uma análise aprofundada das exportações br
 
 ### 📅 Exportações em 2023
 
+<img width="1192" height="668" alt="image" src="https://github.com/user-attachments/assets/1955701f-d6da-4117-a074-8787ca43e4af" />
+
+
 * O valor total exportado atingiu US$ 626,77 bilhões.
 * **Destinos Principais:**
     * China: 28,58%  (US$ 179,105 Bi )
@@ -19,6 +22,9 @@ Este relatório técnico apresenta uma análise aprofundada das exportações br
 
 ### 📅 Exportações em 2024
 
+<img width="1211" height="666" alt="image" src="https://github.com/user-attachments/assets/5432bfd2-381d-4539-981d-3b43d1dbcf46" />
+
+
 * As exportações totalizaram US$ 629,43 bilhões, representando estabilidade nominal frente a 2023 (+0,42%).
 * **Destinos Principais:**
     * China: 30,04% (US$ 189,057 Bi)
@@ -31,6 +37,9 @@ Este relatório técnico apresenta uma análise aprofundada das exportações br
 ---
 
 ### 📅 Exportações em 2025
+
+<img width="1199" height="662" alt="image" src="https://github.com/user-attachments/assets/a0766e66-8ebf-4f39-b621-336089967497" />
+
 
 * O montante exportado alcançou US$ 966,47 bilhões, representando expansão acumulada de aproximadamente 53% em relação a 2023.
 * **Destinos Principais:**
@@ -67,6 +76,4 @@ A análise do triênio evidencia:
 A pauta exportadora brasileira no período 2023-2025 consolidou-se como **fortemente concentrada em bens primários e no modal marítimo**
 A expansão em 2025 reflete o dinamismo da demanda asiática, mas a dependência estrutural de poucos mercados e produtos impõe riscos à sustentabilidade de longo prazo. A diversificação produtiva e a inserção de bens de maior valor agregado constituem fatores críticos para o fortalecimento da competitividade externa brasileira.
 
----
 
-Gostaria que eu fizesse um resumo mais conciso de algum ano específico (2023, 2024 ou 2025)?
