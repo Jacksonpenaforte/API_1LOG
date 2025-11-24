@@ -1,3 +1,5 @@
+Analista Logistico: Geovanna Lara Aparecida da Rosa
+
 ## 📄 Análise Técnica das Exportações Brasileiras (2023-2025)
 
 Este relatório técnico apresenta uma análise aprofundada das exportações brasileiras no período de 2023 a 2025, considerando variações de valor FOB, estrutura modal, composição de produtos e concentração geográfica dos destinos. Os dados evidenciam a predominância das commodities agrícolas e minerais.
