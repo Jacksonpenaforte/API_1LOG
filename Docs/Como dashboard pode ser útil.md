@@ -66,7 +66,7 @@ Os painéis permitem:
 
 ---
 
-## ✅ 3. O que esses dashboards oferecem como ferramenta de análise
+## ✅ 2. O que esses dashboards oferecem como ferramenta de análise
 
 ### **2.1. Visualização Intuitiva**
 Gráficos claros permitem:
