@@ -1,6 +1,6 @@
 # 📄 Compilação de Dados – Importação e Exportação Nacional
 **Data de criação:** 15/09/2025  
-**Última atualização:** 10/10/2025  
+**Última atualização:** 10/11/2025  
 **Autores:** Jackson Penaforte e Vitor Amaral  
 
 ---
